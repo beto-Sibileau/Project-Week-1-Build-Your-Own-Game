@@ -4,6 +4,7 @@
 
 # Draft jupyter
 draft.ipynb
+draft*.ipynb
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
