@@ -77,5 +77,6 @@ interesting to check for presentations! https://slides.com/
 -->
 
 [Repository](https://github.com/)  
-[Slides](https://drive.google.com/file/d/1AfG1e5y3zQ0BYpsn4SdWKNn5vhfdyraW/view?usp=sharing)  
+[Slides](https://drive.google.com/file/d/14g1u3DXgibKcpxGe8KJz15A5_jJIRjFT/view?usp=sharing)  
+[Pseudo-code](https://drive.google.com/file/d/1AfG1e5y3zQ0BYpsn4SdWKNn5vhfdyraW/view?usp=sharing)  
 [Trello](https://trello.com/b/Tf64TFix/project-1-tic-tac-toe)
