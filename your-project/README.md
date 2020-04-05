@@ -37,6 +37,7 @@ I began by writing the project description and game rules in this page. Being Ti
 * Pseudo-code writing.
 * Functions coding.
 * Game loop coding using previously tested functions.
+* Go from Jupyter Notebook draft to final version.
 * Test game and error assestment.
 
 
@@ -49,6 +50,7 @@ Outline the workflow you used in your project. What are the steps you went throu
 
 ## Organization
 I found very useful to begin by checking the proposed tasks at a Trello board designed by our TA. It helped me a lot for assigning an estimated deadline for the main duties to accomplish the project. Among these, what I struggled the most was the lack of time to test different game loops that assign diverse game levels or *cpu intelligence* (using the very same functions).
+In the repository, you will find the folder `your-project`, where this file is included and the final containing the Tic Tac Toe game: `ticTacToe.ipnyb`. The `images` folder contains two draws and a slide describing basic implemented functionalities.
 
 ## Concluding remarks
 
@@ -76,7 +78,7 @@ Include links to your repository, slides and kanban board. Feel free to include 
 interesting to check for presentations! https://slides.com/
 -->
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/beto-Sibileau/Project-Week-1-Build-Your-Own-Game)  
 [Slides](https://drive.google.com/file/d/14g1u3DXgibKcpxGe8KJz15A5_jJIRjFT/view?usp=sharing)  
 [Pseudo-code](https://drive.google.com/file/d/1AfG1e5y3zQ0BYpsn4SdWKNn5vhfdyraW/view?usp=sharing)  
 [Trello](https://trello.com/b/Tf64TFix/project-1-tic-tac-toe)
